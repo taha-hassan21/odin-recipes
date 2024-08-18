@@ -1,3 +1,3 @@
 # odin-recipes
 
-tyring to practice brutalist website design
+trying to practice brutalist website design
